@@ -106,7 +106,7 @@ the URL http://localhost:8080/debug/purchases.
 
 ### Video Preview
 
-<video src="/src/main/resources/static/assets/react-movie-app.mp4" width="500" controls></video>
+<video src="./src/main/resources/static/assets/react-movie-app.mp4" width="500" controls></video>
 
 
 ### Home Page
