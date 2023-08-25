@@ -106,34 +106,34 @@ the URL http://localhost:8080/debug/purchases.
 
 ### Video Preview
 
-<video src="./src/main/resources/static/assets/react-movie-app.mp4" width="500" controls></video>
+<video src="/src/main/resources/static/assets/react-movie-app.mp4" width="500" controls></video>
 
 
-### Search Page
-The Search Page allows you to look up drinks by name:
+### Home Page
+The Home Page fetchTMDB top movie:
 
-![Search Page](./src/main/resources/static/assets/home.jpg)
+![Home Page](./src/main/resources/static/assets/home.jpg)
 
-### Login Page
-Here is a preview of the Login Page where users and admins can sign into their accounts:
+### Search Movie Page
+Here is a preview of the Search by movie name:
 
-![Login Page](./src/main/resources/static/assets/search-movie.jpg)
-
-
-### User Item Page
-This is the User Item Page where users can view the details of a specific drink:
-
-![User Item Page](./src/main/resources/static/assets/genere-choose.jpg)
-
-### Admin Management Page
-The Admin Management Page provides admins with several management options:
-
-![Admin Management Page](.src/main/resources/static/assets/cart.jpg)
+![Search Movie Page](./src/main/resources/static/assets/search-movie.jpg)
 
 
-### Admin Item Management Page
-Finally, this is the Admin Item Management Page, where admins can manage the drink entries:
+### Genre Choose Page
+Here is a preview of the movies picked by genre name:
 
-![Admin Item Management Page](./src/main/resources/static/assets/checkout.jpg)
+![Genre Choose Page](./src/main/resources/static/assets/genere-choose.jpg)
+
+### Cart Page
+The Cart Page provides cart items, user can delete items and clear cart:
+
+![Cart Page](.src/main/resources/static/assets/cart.jpg)
+
+
+### Checkout Page
+Finally, this is the Checkout Page, where users can complete payment cart items:
+
+![Checkout Page](./src/main/resources/static/assets/checkout.jpg)
 
 
