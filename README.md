@@ -105,8 +105,7 @@ the URL http://localhost:8080/debug/purchases.
 ## Screen Previews
 
 ### Video Preview
-
-<video src="./src/main/resources/static/assets/react-movie-app.mp4" width="500" controls></video>
+https://github.com/OriVered/movie-app/assets/76990617/fed6ad3d-8e97-4c45-b38f-33054e47341c
 
 
 ### Home Page
