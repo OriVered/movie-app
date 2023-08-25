@@ -128,7 +128,7 @@ Here is a preview of the movies picked by genre name:
 ### Cart Page
 The Cart Page provides cart items, user can delete items and clear cart:
 
-![Cart Page](.src/main/resources/static/assets/cart.jpg)
+![Cart Page](./src/main/resources/static/assets/cart.jpg)
 
 
 ### Checkout Page
